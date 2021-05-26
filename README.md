@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**AliHaider20/AliHaider20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World 👋
 
 Here are some ideas to get you started:
 
@@ -10,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with some ML experts.
 - 💬 Ask me about ...
-- 📫 How to reach me: 
+- 📫 How to reach me: Haiderratlamwala786@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
