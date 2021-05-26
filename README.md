@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Here are some ideas to get you started:
+Welcome to my Github profile.
 
 - 🔭 I’m currently working on Freecodecamp's Time calculator.
 - 🌱 I’m currently learning Machine Learning.
