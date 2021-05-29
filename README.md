@@ -13,5 +13,5 @@ Welcome to my Github profile.
 
 
 ### Connect me on
-[LinkedIn](https://www.linkedin.com/in/haider-ali-32b66a131/)
-[Medium](https://medium.com/@haiderratlamwala786)
+- [LinkedIn](https://www.linkedin.com/in/haider-ali-32b66a131/)
+- [Medium](https://medium.com/@haiderratlamwala786)
