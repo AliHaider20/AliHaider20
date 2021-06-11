@@ -4,7 +4,7 @@ Welcome to my Github profile.
 
 - :student: I've completed Bsc Computer Science from Mumbai University. 
 - 🔭 I’m currently working on Freecodecamp's Time calculator. 
-- :technologist: I’m currently learning Machine Learning.
+- :technologist: I’m currently learning AI.
 - 👯 I’m looking to collaborate with ML/DS communities and projects.
 - 🤔 I’m looking for jobs as an AI/ML engineer.
 - :e-mail: How to reach me: Haiderratlamwala786@gmail.com
