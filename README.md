@@ -2,7 +2,7 @@
 
 Welcome to my Github profile.
 
-- :student: I've completed Bsc Computer Science from Mumbai University. 
+- :student: I've completed my Bachelor's in Computer Science from University of Mumbai. 
 - 🔭 I’m currently working on Freecodecamp's Time calculator.
 - 🌱 I’m addicted to learning and growing every day 
 - :technologist: I’m currently learning AI.
