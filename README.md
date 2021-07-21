@@ -15,7 +15,5 @@ Welcome to my Github profile.
 - [Follow me on Medium](https://medium.com/@h_ali)
 - [Follow on Kaggle](https://www.kaggle.com/haiderali20)
 
-
-
-[![Haider Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20)](https://github.com/AliHaider20/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider20&layout=compact)](https://github.com/AliHaider20/github-readme-stats)
