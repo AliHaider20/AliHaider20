@@ -17,4 +17,5 @@ Welcome to my Github profile.
 
 ![Haider Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider20&layout=compact)](https://github.com/AliHaider20/github-readme-stats)
-![Profile views](https://gpvc.arturio.dev/[AliHaider20])
+![](https://komarev.com/ghpvc/?username=AliHaider20)
+
