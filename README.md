@@ -19,7 +19,7 @@ Welcome to my Github profile.
     <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.kaggle.com/haiderali20">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
 
