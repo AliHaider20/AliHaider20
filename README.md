@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Haider. I'm skilled in Python, Applied Mathematics, and Machine learning.
+### Hello there 👋, I'm Haider. I'm skilled in Python, Applied Mathematics, Machine learning, and Computer Vision.
 
 Welcome to my Github profile.
 
