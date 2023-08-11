@@ -11,7 +11,9 @@ Welcome to my GitHub profile.
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/haider-ali-32b66a131/)
 - [Follow me on Medium](https://medium.com/@h_ali)
 - [Follow me on Kaggle](https://www.kaggle.com/haiderali20)
-  
+
+![](https://komarev.com/ghpvc/?username=AliHaider20&color=green)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/hali20/">
     <img src="https://img.shields.io/badge/LinkedIn-skyblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,6 +28,5 @@ Welcome to my GitHub profile.
 
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider20)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=AliHaider20&color=green)
 
 
