@@ -24,7 +24,8 @@ Welcome to my GitHub profile.
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=AliHaider20&color=green)
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider20)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=AliHaider20&color=green)
+
 
