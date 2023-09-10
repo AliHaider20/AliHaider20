@@ -35,6 +35,7 @@ Welcome to my GitHub profile.
   
 </div>
 
+
 # My tech stack
 ---
 <div align="center">
@@ -64,4 +65,7 @@ Welcome to my GitHub profile.
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/></code>
 </div>
+
+<i class="fab fa-github"></i> [GitHub Repository](https://github.com/AliHaider20/AliHaider20)
+
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true&theme=dark)
