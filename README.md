@@ -1,4 +1,6 @@
-### Hello there 👋, I'm Haider. I'm skilled in Python, Applied Mathematics, Machine learning, and Computer Vision.
+# Hello there 👋, I'm Haider. 
+
+I'm skilled in Python, Applied Mathematics, Machine learning, and Computer Vision.
 
 Welcome to my GitHub profile.
 
@@ -26,7 +28,7 @@ Welcome to my GitHub profile.
   </a>
 </div>
 
-![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true)
+[![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider20)](https://github.com/anuraghazra/github-readme-stats)
 
 
