@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Haider. 
 
-I'm skilled in Python, Applied Mathematics, Machine learning, and Computer Vision.
+I'm a Machine Learning Engineer / Data Scientist based in New York City. I'm skilled in Applied Machine learning, Natural Language Processing (LLM), Computer Vision, Applied Mathematics, and Medical Imaging (Dicom).
 
 Welcome to my GitHub profile.
 
@@ -14,8 +14,7 @@ Welcome to my GitHub profile.
 - [Follow me on Medium](https://medium.com/@h_ali)
 - [Follow me on Kaggle](https://www.kaggle.com/haiderali20)
 
-![](https://komarev.com/ghpvc/?username=AliHaider20&color=green)
-
+# <center> Connect with me on </center>
 <div id="badges">
   <a href="https://www.linkedin.com/in/hali20/">
     <img src="https://img.shields.io/badge/LinkedIn-skyblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
