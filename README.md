@@ -38,7 +38,11 @@ Welcome to my GitHub profile.
 
 # My tech stack
 ---
-<img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=Pytorch&logoColor=grey" alt="Pytorch Badge"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=grey" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=grey" alt="Pytorch Badge"/>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=grey" alt="Pytorch Badge"/>
+
+<img src="https://img.shields.io/badge/Pytorch-orange?style=for-the-badge&logo=Pytorch&logoColor=grey" alt="Pytorch Badge"/>
 
 
 <i class="fab fa-github"></i> [GitHub Repository](https://github.com/AliHaider20/AliHaider20)
