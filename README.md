@@ -1,13 +1,13 @@
 # Hello there, I'm Haider. 
 
-I'm a Machine Learning Engineer / Data Scientist based in New York City. I'm skilled in Applied Machine learning, Natural Language Processing (LLM), Computer Vision, Applied Mathematics, and Medical Imaging (Dicom).
+I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled in Applied Machine learning, Natural Language Processing (LLM), Computer Vision, Applied Mathematics, and Medical Imaging (Dicom).
 
 Welcome to my GitHub profile.
 
 - 👨🏼‍💻 I’m addicted to learning and growing every day.
-- 👯 I’m looking to collaborate with ML/DS communities and projects.
-- 👍 I like to read and turn papers to code.
-- Passionate to apply my skills in healthcare and social good projects to bring positive change in the world.
+- 👯 I want to collaborate with ML/DS communities and projects.
+- 👍 I like to read and turn papers into code.
+- Passionate to apply my skills in healthcare and social good projects to positively impact the world.
 - :e-mail: How to reach me: Haiderratlamwala786@gmail.com
 
 # Connect with me on
