@@ -9,10 +9,6 @@ Welcome to my GitHub profile.
 - 👍 I like to read and turn papers to code.
 - Passionate to apply my skills in healthcare and social good projects to bring positive change in the world.
 - :e-mail: How to reach me: Haiderratlamwala786@gmail.com
-- :tv: [Subscribe on Youtube](https://www.youtube.com/channel/UCLejUSp6pBodGBGpF7t2FDw)
-- [Connect with me on LinkedIn](https://www.linkedin.com/in/haider-ali-32b66a131/)
-- [Follow me on Medium](https://medium.com/@h_ali)
-- [Follow me on Kaggle](https://www.kaggle.com/haiderali20)
 
 # Connect with me on
 
