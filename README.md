@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Haider. 
+# Hello there https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/, I'm Haider. 
 
 I'm a Machine Learning Engineer / Data Scientist based in New York City. I'm skilled in Applied Machine learning, Natural Language Processing (LLM), Computer Vision, Applied Mathematics, and Medical Imaging (Dicom).
 
