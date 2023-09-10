@@ -27,10 +27,10 @@ Welcome to my GitHub profile.
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <a href="https://www.youtube.com/watch?v=13BZ_a_5Wl0">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Youtube&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://medium.com/@h_ali">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Medium&logoColor=white" alt="Kaggle Badge"/>
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
   
 </div>
