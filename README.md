@@ -87,4 +87,7 @@ I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled i
 
 # Github Activeness
 
-![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true&theme=dark)
+![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHAider20&show_icons=true&theme=radical)
+
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AliHaider20&theme=monokai)
+
