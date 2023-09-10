@@ -15,6 +15,7 @@ Welcome to my GitHub profile.
 - [Follow me on Kaggle](https://www.kaggle.com/haiderali20)
 
 # <center> Connect with me on </center>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/hali20/">
     <img src="https://img.shields.io/badge/LinkedIn-skyblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -25,9 +26,15 @@ Welcome to my GitHub profile.
   <a href="https://www.kaggle.com/haiderali20">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+  <a href="https://www.youtube.com/watch?v=13BZ_a_5Wl0">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Youtube&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://medium.com/@h_ali">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Medium&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  
 </div>
 
+# My skills and technologies
+
 [![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliHaider20&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
-
