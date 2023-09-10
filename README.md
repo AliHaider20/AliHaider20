@@ -30,7 +30,7 @@ Welcome to my GitHub profile.
     <img src="https://img.shields.io/badge/Youtube-white?style=for-the-badge&logo=Youtube&logoColor=red" alt="Youtube Badge"/>
   </a>
   <a href="https://medium.com/@h_ali">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=Medium&logoColor=grey" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=Medium&logoColor=grey" alt="Medium Badge"/>
   </a>
   
 </div>
