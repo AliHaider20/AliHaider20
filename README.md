@@ -14,7 +14,7 @@ Welcome to my GitHub profile.
 - [Follow me on Medium](https://medium.com/@h_ali)
 - [Follow me on Kaggle](https://www.kaggle.com/haiderali20)
 
-# <center> Connect with me on </center>
+# Connect with me on
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hali20/">
@@ -37,10 +37,6 @@ Welcome to my GitHub profile.
 
 
 # My tech stack
-
-<!-- Tech Stack with Icons (Custom Structure) -->
-
-## Tech Stack
 
 ### Programming Languages
 <div align="center">
@@ -86,5 +82,6 @@ Welcome to my GitHub profile.
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </div>
 
+# Github Activeness
 
 ![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true&theme=dark)
