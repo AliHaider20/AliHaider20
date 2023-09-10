@@ -36,4 +36,4 @@ Welcome to my GitHub profile.
 </div>
 
 # My skills and technologies
-![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true&theme=gradient)
+![Haider's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true&theme=dark)
