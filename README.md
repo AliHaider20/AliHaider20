@@ -1,8 +1,7 @@
-# Hello there, I'm Haider. 
+# Hello there, I'm Haider. Welcome to my GitHub profile.
 
+### About Me
 I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled in Applied Machine learning, Natural Language Processing (LLM), Computer Vision, Applied Mathematics, and Medical Imaging (Dicom).
-
-Welcome to my GitHub profile.
 
 - 👨🏼‍💻 I’m addicted to learning and growing every day.
 - 👯 I want to collaborate with ML/DS communities and projects.
