@@ -37,11 +37,14 @@ Welcome to my GitHub profile.
 
 
 # My tech stack
----
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AliHaider20&show_icons=true&theme=dark&count_private=true)
+
+
 <div id = "badges">
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=grey" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/C-reddish?style=for-the-badge&logo=C&logoColor=grey" alt="C Badge"/>
-<img src="https://img.shields.io/badge/CPP-dark blue?style=for-the-badge&logo=CPP&logoColor=grey" alt="C++ Badge"/>
+<img src="https://img.shields.io/badge/CPP-dark blue?style=for-the-badge&logo=CPP&logoColor=grey" alt="CPP Badge"/>
 
 <img src="https://img.shields.io/badge/Pytorch-orange?style=for-the-badge&logo=Pytorch&logoColor=grey" alt="Pytorch Badge"/>
 
