@@ -51,7 +51,6 @@ I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled i
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
     <img src="https://img.shields.io/badge/MLFlow-02569B?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow">
     <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark">
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
 </div>
 
 ### Data Visualization & Documentation
@@ -82,6 +81,8 @@ I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled i
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white" alt="RStudio">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB">
+  
 </div>
 
 
