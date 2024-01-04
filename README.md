@@ -7,7 +7,7 @@ I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled i
 - 👯 I want to collaborate with ML/DS communities and projects.
 - 👍 I like to read and turn papers into code.
 - Passionate to apply my skills in healthcare and social good projects to positively impact the world.
-- :e-mail: How to reach me: Haiderratlamwala786@gmail.com
+- :e-mail: Reach me at: Haiderratlamwala786@gmail.com
 
 # Connect with me on
 
