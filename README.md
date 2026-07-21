@@ -26,6 +26,9 @@ I'm a Machine Learning Engineer / Data Scientist in New York City. I'm skilled i
   <a href="https://medium.com/@h_ali">
     <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=Medium&logoColor=grey" alt="Medium Badge"/>
   </a>
+  <a href="https://huggingface.co/codegood">
+    <img src="https://img.shields.io/badge/Hugging_Face-yellow?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Badge"/>
+</a>
   
 </div>
 
